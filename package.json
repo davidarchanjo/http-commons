@@ -1,0 +1,22 @@
+{
+  "name": "http-commons",
+  "version": "1.0.0",
+  "description": "A basic http utility module",
+  "homepage": "https://github.com/darchanjo/http-commons",
+  "author": "David Archanjo <david.archanjoybr@gmail.com> (https://www.linkedin.com/in/darchanjo)",
+  "keywords": [
+    "http",
+    "node",
+    "express"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/darchanjo/http-commons"
+  },
+  "bugs": {
+    "email": "david.archanjoybr@gmail.com",
+    "url": "https://github.com/darchanjo/http-commons/issues"
+  },
+  "main": "lib/index.js"
+}
