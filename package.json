@@ -1,9 +1,13 @@
 {
   "name": "http-commons",
-  "version": "1.0.0",
-  "description": "A basic http utility module",
+  "version": "1.2.0",
+  "description": "A lightweight and basic http utility module that exposes convenient constants for all http status and methods",
   "homepage": "https://github.com/darchanjo/http-commons",
-  "author": "David Archanjo <david.archanjoybr@gmail.com> (https://www.linkedin.com/in/darchanjo)",
+  "author": {
+    "name": "David Archanjo",
+    "email": "david.archanjoybr@gmail.com",
+    "url": "https://www.linkedin.com/in/darchanjo"
+  },
   "keywords": [
     "http",
     "node",

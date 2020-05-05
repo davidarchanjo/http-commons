@@ -1,2 +1,2 @@
 # http-commons
-A very basic http utility module that exposes practical constants for all http status (200, 201...) and for all http methods (GET, POST...)
+A lightweight and basic http utility module that exposes convenient constants for all http status and methods
